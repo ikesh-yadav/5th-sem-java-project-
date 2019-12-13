@@ -1,0 +1,10 @@
+---
+  applications:
+  - name: javaProjectStudent
+    path: target\JP_SMS.war
+    memory: 1G
+    services: 
+     - mysql
+  
+  
+  
